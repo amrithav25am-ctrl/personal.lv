@@ -1,0 +1,6 @@
+{
+  "name": "A Love Surprise For Kuttu",
+  "description": "An elegant, romantic love surprise with scannable QR code entry, kisses explosion, and heartfelt messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
